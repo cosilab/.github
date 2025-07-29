@@ -7,4 +7,3 @@ This is the GitHub organization for the Cooperative Systems & Intelligence (CoSI
 **Lab Website**: [https://cosilab.github.io/](https://cosilab.github.io/)
 
 **Principal Investigator**: [Xuan (Tan Zhi Xuan)](https://ztangent.github.io/)
-
